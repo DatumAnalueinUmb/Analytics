@@ -1,0 +1,40 @@
+Goal:
+ 
+1.To create a website to showcase your term project.
+2.See machine learning openings and their requirements(Atleast 20-30 jobs). Using the description for     jobs come up with your methods that you will use in your project.
+3. The more job related and more in-depth analysis, the better
+ 
+Website:
+ 
+One student should create website. It should look professional.
+ 
+Problem Definition:
+ 
+1.The description should include the keywords you identified from current job openings on data science and machine learning.Problem definition should be More general.
+ 
+2.Validation for this should be done using KDD cup. Data should be from KDD cup 2010. Please discuss how you will thoroughly test the machine learning method(s) using the datasets you construct.
+ 
+Method:
+ 
+What kind of Machine Learning method you are using for term project should be guided by job openings. eg of most common methods include using Cost function,Gradient Descent etc.
+ 
+Data Description:
+ 
+In initial report data was given but we had to wait too long so now we have option to have our own data, train that and test it.
+ 
+What will matter is how efficiently we are training and testing the data, what will not matter is how huge our data set is.
+ 
+Own dataset with reasonable size. Can trim previously used data. Data should however belong to KDD cup.
+ 
+ 
+You should provide detailed discussion on how you select training data, validation data, and test data for your project. You must construct the datasets for this project with good reasoning.
+ 
+ 
+Experimental Result:
+ 
+Please discuss how you will thoroughly test the machine learning method(s) using the datasets you construct. Showcase analysis of results on website.
+ 
+Additional Notes:
+ 
+ The team should have your own online source code repository. The website should include weekly    
+ meeting minutes for the team till the final report due on May 19, 2016.
