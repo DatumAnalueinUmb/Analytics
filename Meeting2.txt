@@ -1,0 +1,23 @@
+1. Agreed on Company's Name.
+2. Worked on Git repository.
+ 
+      Created a git account for everyone in the team.
+      Created an organization on git for all the members in the group to work        
+       together.
+         username:Team6UMB
+         organization name:DatumAnalueinUmb
+         Repository name: Analytics
+ 
+3.Discussed previous meetings results.
+4. Discussed on how to fill in Services tab for our website. We came up with the following format:
+ 
+     Problem Description.
+     Method Selection.
+     Data Preparation.
+     Experiment & Results.
+ 
+5.Worked on profiles for each team member for the website.
+6. Chose Language and environment for the project. The discussion had the following outcome:
+ 
+    Creating algorithm in C &
+    Graphics will be completed in MATLAB.
