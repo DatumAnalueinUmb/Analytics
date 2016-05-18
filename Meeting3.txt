@@ -1,0 +1,26 @@
+Meeting 3
+May 10, 2016
+1.   Discussed on how to trim the data set.
+ 
+We distributed the data based on number of steps. Corresponding to a range of steps we have number of students allotted. Meaning if we have a step range of 0-1000, we are allotting number of students that have/tried to solve a problem in that many steps. We are then calculating what is the percentage of these students in the total student population.
+ 
+2.   Feature Extraction:
+ 
+We decided to extract features based on following:
+ 
+Q.Id=(P.Id,S.Id)
+Duration= Duration for Q.Id
+Hints= Number of hints required for Q.Id
+ 
+3.   Supervised:
+ 
+SVM
+8 fold cross validation for testing.
+ 
+We discussed how to incorporate these methods into our model.
+ 
+4.  Unsupervised:
+ 
+Instance Based Algorithm
+Clustering.
+ 

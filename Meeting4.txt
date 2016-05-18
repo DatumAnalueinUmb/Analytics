@@ -1,0 +1,25 @@
+
+Meeting 4
+May 17, 2016
+1.  We had a detailed discussion about how to design power point for final report.
+ 
+2.  Decided to have the ppt based on following format.
+ 
+          Tasks that have been done including both tasks that were successful or failed
+          In-depth discussion of the machine learning methods 
+          Detailed discussion of experimental result
+          Cooperation among team members and Time management
+ 
+3.  Distributed the parts for power point presentation as follows:
+ 
+Deepanshu:   Goal
+                       Homepage
+                       Problem Description
+ 
+        Parth:      Data Description
+ 
+        Ryan:      Implementation Description
+ 
+     Ashley:      SVM
+                       Theory
+                       GUI  
