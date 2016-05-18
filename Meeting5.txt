@@ -1,0 +1,27 @@
+Meeting 5
+
+May 18, 2016
+
+1.Discussed how to design GUI for our project
+
+ 
+
+2.Rehearsed for the final presentation.
+
+ 
+
+3.Discussion on how to unify the entire project.
+
+ 
+
+4.Assigning individual work for completing the project
+
+ 
+
+         Deepanshu-Merge everyone’s work.
+
+         Parth-Finish the database explanation.
+
+         Ashley-Complete the GUI part.
+
+         Ryan-Finish data implementation.
